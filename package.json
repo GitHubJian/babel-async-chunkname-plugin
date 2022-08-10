@@ -1,16 +1,14 @@
 {
-  "name": "babel-async-chunkname-plugin",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "http://gitlab.baidu.com/xiaowensheng/babel-async-chunkname-plugin.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+    "name": "babel-async-chunkname-plugin",
+    "version": "1.0.1",
+    "description": "",
+    "main": "./src/index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "http://gitlab.baidu.com/xiaowensheng/babel-async-chunkname-plugin.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
 }
